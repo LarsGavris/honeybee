@@ -21,3 +21,7 @@ After picking all berries you must return to the hive savely to progress to the 
 1. clone the repository / download the files
 2. open the `honey.html` file in the browser
 3. have fun!
+
+or
+
+Play online here: [larsgavris.github.io](https://larsgavris.github.io/)
